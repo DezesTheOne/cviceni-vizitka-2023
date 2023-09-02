@@ -1,4 +1,13 @@
-h1 {
+body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  size: 30px;
+  text-align: center;
   color: dimgrey;
+}
+
+p {
+  text-align: center;
 }
